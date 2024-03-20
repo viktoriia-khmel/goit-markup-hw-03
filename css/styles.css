@@ -39,6 +39,7 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   padding: 24px 0;
+  display: block;
 }
 .header {
   background-color: #fff;
@@ -72,8 +73,7 @@ img {
   display: flex;
   list-style: none;
   align-items: center;
-  padding-top: 24px;
-  padding-bottom: 24px;
+
   margin-right: 332px;
 }
 .nav {
